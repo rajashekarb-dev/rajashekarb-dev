@@ -25,3 +25,5 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Couchbase%2C_Inc._official_logo.png"></code>
 
 ![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajashekarb-dev&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekarb-dev&langs_count=8)](https://github.com/rajashekarb-dev/github-readme-stats)
