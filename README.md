@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaShekar&label=Views&color=blue&style=plastic" alt="Raja Shekar views" /> </p>
 
-[![Linkedin: Raja Shekar](https://img.shields.io/badge/-RajaShekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raja-shekar/)]
 <br>
 
 - 🔭 I’m currently working on nothing
