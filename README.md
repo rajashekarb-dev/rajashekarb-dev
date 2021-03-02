@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaShekar&label=Views&color=blue&style=plastic" alt="Raja Shekar views" /> </p>
 
-<br>
-
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Scala and Spark
 - 🤔 I’m looking for help with building data pipelines
