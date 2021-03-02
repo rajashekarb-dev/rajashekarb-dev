@@ -9,8 +9,6 @@
 [![Linkedin: Raja Shekar](https://img.shields.io/badge/-RajaShekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raja-shekar/)]
 <br>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Scala and Spark
 - 🤔 I’m looking for help with building data pipelines
