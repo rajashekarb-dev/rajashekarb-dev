@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Scala and Spark
 - 🤔 I’m looking for help with building data pipelines
 - 💬 Ask me about Web development
-- 📫 How to reach me: [Linkedin - @raja-shekar](https://www.linkedin.com/in/raja-shekar/)
+- 📫 How to reach me: [Linkedin - @raja-shekar](https://www.linkedin.com/in/raja-shekar/) 
 
 **Languages and frameworks:**  
 
