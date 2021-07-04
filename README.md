@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaShekar&label=Views&color=blue&style=plastic" alt="Raja Shekar views" /> </p>
 
-- 🔭 I’m currently working on some personal projects.
+- 🔭 I’m currently working on building pipelines using Kafka, Spark structured streaming, Python and Scala.
 - 🌱 I’m currently learning Scala, Apache Spark and Apache Kafka
 - 🤔 I’m looking for help with building data pipelines
 - 💬 Ask me about Web development
