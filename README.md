@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Scala, Apache Spark and Apache Kafka
 - 🤔 I’m looking for help with building data pipelines
 - 💬 Ask me about Web development
-- 📫 How to reach me: [Linkedin - @raja-shekar](https://www.linkedin.com/in/raja-shekar/) / [Gmail - @rajashekarb.dev@gmail.com](rajashekarb.dev@gmail.com)
+- 📫 How to reach me: [Linkedin - @raja-shekar](https://www.linkedin.com/in/raja-shekar/) / Gmail - @rajashekarb.dev@gmail.com
 
 **Known Languages and frameworks:**  
 
