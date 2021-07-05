@@ -6,6 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaShekar&label=Views&color=blue&style=plastic" alt="Raja Shekar views" /> </p>
 
+
+Currently working as Software Engineer at [Groundhog Apps](https://groundhogapps.com/). I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems. My Interest lies in Web app development, Data Engineering. I am passionate about building products using technology that can help improve people's lives. If you'd like to collaborate or chat more, feel free to reach out to me.💬
+
+<br>
+
 - 🔭  I’m currently working on building pipelines using Kafka, Spark structured streaming, Python and Scala.
 - 🌱  I’m currently learning Scala, Apache Spark and Apache Kafka
 - 🤔  I’m looking for help with building data pipelines
